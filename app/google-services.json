@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215932155316",
+    "project_id": "kool619-f99ee",
+    "storage_bucket": "kool619-f99ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215932155316:android:be38383735cd8c4af66ee1",
+        "android_client_info": {
+          "package_name": "com.example.kool619"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215932155316-ifd0n0vahhqmdmd5vk6a7vvbetai4apn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQYQPjUJND1aYHTqs-fWogV7B_9dXg15Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215932155316-ifd0n0vahhqmdmd5vk6a7vvbetai4apn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

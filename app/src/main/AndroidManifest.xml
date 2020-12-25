@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kool619">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Kool619">
+        <activity android:name=".DeliveryRegistration"></activity>
+        <activity android:name=".DeliveryLoginphone" />
+        <activity android:name=".DeliveryLogin" />
+        <activity android:name=".Registration" />
+        <activity android:name=".Loginphone" />
+        <activity android:name=".Login" />
+        <activity android:name=".ChefRegistration" />
+        <activity android:name=".Chefloginphone" />
+        <activity android:name=".Cheflogin" />
+        <activity android:name=".Chef" />
+        <activity android:name=".ChooseOne" />
+        <activity android:name=".MainMenu" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
